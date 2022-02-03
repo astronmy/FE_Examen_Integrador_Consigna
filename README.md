@@ -27,15 +27,15 @@ de la asignatura FrontEnd 1
 ## Puntos a evaluar
 
 Los aspectos a evaluar son los siguientes:
-    -Estructura correcta de HTML
-    -Uso y correcta implementación de etiquetas semánticas
-    -Adaptabilidad a dos tipos de dispositivos (tomar as medidas sugeridas dentro de style-guide.md)  
-    -Correcta implementación del fomulario
-    -Imagens, iconos, fuentes, background
-    -Implementación de Flexbox
-    -Buenas Practicas en el CSS
-    -Pseudoelementos y Pseudoclases 
-    -(opcional) ---> Pequeñas Animaciones
+  - Estructura correcta de HTML
+  - Uso y correcta implementación de etiquetas semánticas
+  - Adaptabilidad a dos tipos de dispositivos (tomar as medidas sugeridas dentro de style-guide.md)  
+  - Correcta implementación del fomulario
+  - Imagens, iconos, fuentes, background
+  - Implementación de Flexbox
+  - Buenas Practicas en el CSS
+  - Pseudoelementos y Pseudoclases 
+  - (opcional) ---> Pequeñas Animaciones
 
 ## Donde encuentro los recursos?
 
