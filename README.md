@@ -20,7 +20,7 @@ de la asignatura FrontEnd 1
   Donde nombre y apellido son el nombre propio y apellido del alumno que lo presenta
 - La entrega debe realizarla en el siguiente formulario:
 
-  ![Formulario de Entrega](https://forms.gle/jW9Rie6GjnVdcTot8)
+  [Formulario de Entrega](https://forms.gle/jW9Rie6GjnVdcTot8)
 
 **Una vez finalizado el tiempo de entrega el formulario no permitirá más entregas. Alumno que no presente dentro del tiempo designado se lo considera desaprobado**
 
@@ -45,8 +45,8 @@ Dentro de la carpeta `/ images` encontrarán todas las imagenes necesarias para 
 
 En el siguiente vinculo tendrán acceso al Figma de la maqueta del proyecto
 
-![FIGMA](https://www.figma.com/file/7O3V6qlF4iUjtpnPpeWr53/Examen-Final-Verano?node-id=0%3A1)
+[FIGMA](https://www.figma.com/file/7O3V6qlF4iUjtpnPpeWr53/Examen-Final-Verano?node-id=0%3A1)
 
 
 
-**Have fun building!** 🚀
+**Que la fuerza los acompañe!!** 🚀
