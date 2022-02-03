@@ -15,9 +15,11 @@ de la asignatura FrontEnd 1
 
 - Tiempo limite para presentar el ejericio Viernes 11 de Febrero del 2022 a las 23:55hs (**HORARIO ARGENTINA**)
 - Debe adjuntar su proyecto en un archivo con la extension .zip o .rar.
-- El archivo zip/rar debe tener el siguiente nombre SIN EXCEPCION  
-  "ExamenFinalFE_nombre_apellido.zip" o "ExamenFinalFE_nombre_apellido.rar"
-  Donde nombre y apellido son el nombre propio y apellido del alumno que lo presenta
+- El archivo zip/rar debe tener el siguiente nombre **SIN EXCEPCION** 
+
+  **"ExamenFinalFE_nombre_apellido.zip"** o **"ExamenFinalFE_nombre_apellido.rar"**
+  Donde **nombre** y **apellido** son el nombre propio y apellido del alumno que lo presenta
+
 - La entrega debe realizarla en el siguiente formulario:
 
   [Formulario de Entrega](https://forms.gle/jW9Rie6GjnVdcTot8)
